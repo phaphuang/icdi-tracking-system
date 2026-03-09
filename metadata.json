@@ -1,0 +1,5 @@
+{
+  "name": "ICDI Startup Project Tracking System",
+  "description": "A centralized system for managing, storing, and tracking the progress of startup projects for Digital Innovation students.",
+  "requestFramePermissions": []
+}
